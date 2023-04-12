@@ -1,8 +1,7 @@
 # lab 2
 
-## Supervised learning with neural architecture
+## Data scrapping with BeautifulSoup
 
-Татсан өгөгдөл дээрээ өмнөх лаб дээр харуулсантай төстэй QA NLP app зохионо. Зохиохдоо SentenceBert, Linear Regression Model ашиглана.
+Өөрийн сонгон авсан системээс өгөгдлүүдийг гарган авах data scrapping code бичнэ. Data scrap хийхдээ BeautifulSoup and Google colab ашиглана.
 
-SetFit:
-https://github.com/huggingface/setfit
+Бүх датаг цуглуулаад өгөгдөлөө tsv өргөтгөлтэй хадгалаад явуулна. Хэрвээ өгөгдөл нь том хэмжээтэй бол Google drive руу хуулаад линкээ явуулна.
