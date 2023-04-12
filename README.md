@@ -1,1 +1,1 @@
-# Machine-Learning
+# ICSI466 Машин сургалт
